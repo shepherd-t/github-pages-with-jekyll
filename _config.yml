@@ -12,4 +12,4 @@ github_username:  shepherd-t
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-minima
+theme: minima
